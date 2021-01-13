@@ -1,9 +1,9 @@
-# Housing-california
+# Housing-california | Data Science
 
-Se analiza el conjunto de datos de Housing California provisto por scikit-learn para predecir los precios de las casas en función de variables.
-Usamos regresion lineal y RandomForest. </br>
+En el archivo .ipynb se analiza el conjunto de datos de Housing California provisto por scikit-learn para predecir los precios de las casas en función de varias variables.
+Usamos regresion lineal y RandomForestRegressor. </br>
 
-Grafico de los datos sobre el mapa de california:</br>
+
 ![california_plot](https://user-images.githubusercontent.com/66931754/104403745-f52f1d80-5537-11eb-84f7-ff3b920b7ad1.png) </br>
 
 
